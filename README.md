@@ -2,10 +2,10 @@ This Python project implements a model for forecasting daily births based on his
 
 Data Preparation
 
-Obtain historical daily birth data (e.g., from government agencies, healthcare providers).
+Obtain historical daily birth data.
 Ensure the data is in a suitable format (e.g., CSV, Excel).
-The data should have columns representing date (in a format suitable for pandas) and daily birth count.
-Place the data file in the data directory (create it if it doesn't exist).
+The data should have columns representing date  and daily birth count.
+Place the data file in the data directory.
 
 Output
 
